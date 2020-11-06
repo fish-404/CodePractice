@@ -2,7 +2,7 @@
 
 Problem: [Multiple of 3](https://www.codechef.com/LRNDSA01/problems/MULTHREE)
 
-<img src="http://latex.codecogs.com/svg.latex?d_k&space;=&space;2^{k-2}&space;*&space;(d_0&space;&plus;&space;d_1)&space;mod&space;10" title="http://latex.codecogs.com/svg.latex?d_k = 2^{k-2} * (d_0 + d_1) mod 10" />
+<img src="http://latex.codecogs.com/svg.latex?\2^{k-2}(d_0&space;&plus;&space;d_1)mod10" title="http://latex.codecogs.com/svg.latex?\2^{k-2}(d_0 + d_1)mod10" />
 
 ```python
 def calDigit(k, d):
