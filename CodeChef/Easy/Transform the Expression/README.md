@@ -10,4 +10,5 @@ tips:
   * if `c` is a right brace, pop a oprand from B, and push it into A
   
 > each expression has only one RPN form
+
 Note: the restriction in problem simplify the problem, we don't need considerate the operand proprity
