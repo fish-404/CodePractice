@@ -7,5 +7,5 @@ tips:
   - for B: ScoreB - ScoreA > leftRoundA
 
 Note: 
-  * We can't use abs() to judge, because in odd round, leftRoundA is different from leftRoundA
+  * We can't use `abs()` to judge, because in odd round, leftRoundA is different from leftRoundA
   * don't forget case games ended in last round
