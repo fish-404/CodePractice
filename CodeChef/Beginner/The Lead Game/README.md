@@ -1,3 +1,9 @@
+# CodePractice
+
+## CodeChef
+
+### Beginner
+
 #### The Lead Game
 Problem: [The Lead Game](https://www.codechef.com/problems/TLG)
 
