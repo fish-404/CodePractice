@@ -1,3 +1,9 @@
+# CodePractice [Back](https://blog.fish-404.icu/CodePractice/)
+
+## CodeChef [Back](https://blog.fish-404.icu/CodePractice/CodeChef/)
+
+### Easy [Back](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/)
+
 #### Multiple of 3
 
 Problem: [Multiple of 3](https://www.codechef.com/LRNDSA01/problems/MULTHREE)
