@@ -1,3 +1,9 @@
+# CodePractice [Back](https://blog.fish-404.icu/CodePractice/)
+
+## CodeChef [Back](https://blog.fish-404.icu/CodePractice/CodeChef/)
+
+### Easy [Back](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/)
+
 #### Transform the Expression
 Problem: [Transform the Expression](https://www.codechef.com/problems/ONP)
 
