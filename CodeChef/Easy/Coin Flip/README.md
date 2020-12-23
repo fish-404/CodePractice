@@ -1,3 +1,9 @@
+# CodePractice [Back](https://blog.fish-404.icu/CodePractice/)
+
+## CodeChef [Back](https://blog.fish-404.icu/CodePractice/CodeChef/)
+
+### Easy [Back](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/)
+
 #### Coin Flip
 
 Problem: [Coin Flip](https://www.codechef.com/problems/CONFLIP)
