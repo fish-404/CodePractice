@@ -1,3 +1,9 @@
+# CodePractice
+
+## CodeChef
+
+### Beginner
+
 #### Laddu
 
 Problem: [Laddu](https://www.codechef.com/problems/LADDU)
