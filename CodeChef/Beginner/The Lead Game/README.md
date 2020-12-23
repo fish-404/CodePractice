@@ -1,8 +1,8 @@
-# CodePractice
+# CodePractice [Back](https://blog.fish-404.icu/CodePractice/)
 
-## CodeChef
+## CodeChef [Back](https://blog.fish-404.icu/CodePractice/CodeChef/)
 
-### Beginner
+### Beginner [Back](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/)
 
 #### The Lead Game
 Problem: [The Lead Game](https://www.codechef.com/problems/TLG)
