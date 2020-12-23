@@ -1,3 +1,9 @@
+# CodePractice
+
+## CodeChef
+
+### Beginner
+
 #### Chef and Street Food
 Problem: [Chef and Street Food](https://www.codechef.com/problems/STFOOD)
 
