@@ -5,6 +5,7 @@
 ### Easy 
 
 * [Coin Flip](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/Coin%20Flip/)
+* [Compilers and parsers](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/Compilers%20and%20parsers/)
 * [Factorial](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/Factorial/)
 * [Multiple of 3](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/Multiple%20of%203/)
 * [Penalty Shoot-Out II](https://blog.fish-404.icu/CodePractice/CodeChef/Easy/Penalty%20Shoot-Out%20II/)
