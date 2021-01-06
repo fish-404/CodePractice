@@ -6,7 +6,7 @@
 
 #### Matched Bracket
 
-Problem: [Matched Bracket](https://www.codechef.com/LRNDSA02/problems/ZCO12001)
+Problem: [Matched Brackets](https://www.codechef.com/LRNDSA02/problems/ZCO12001)
 
 tips: 
 
