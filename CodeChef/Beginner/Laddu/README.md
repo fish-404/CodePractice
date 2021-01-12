@@ -12,3 +12,5 @@ tips:
 
 * pattern match
 * don't forget compare the rank to 20
+
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Laddu/Laddu.py)
