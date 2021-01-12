@@ -12,4 +12,4 @@ tips:
 
 * define a function, you can save a flag define
 
-[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Division%203/Chef%20and%20Division%203.py)
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Block%20Game/The%20Block%20Game.py)
