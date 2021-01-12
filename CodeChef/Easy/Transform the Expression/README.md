@@ -18,3 +18,5 @@ tips:
 > each expression has only one RPN form
 
 Note: the restriction in problem simplify the problem, we don't need considerate the operand proprity
+
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Others/Matched%20Brackets/Matched%20Brackets.py)
