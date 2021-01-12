@@ -27,3 +27,4 @@ tips:
     
 * then you will find the digit go into a cycle, and you just need to count the first 3 digit and a cycle and the cycle left digit
 
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Easy/Multiple%20of%203/Multiple%20of%203.py)
