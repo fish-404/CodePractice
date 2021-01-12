@@ -13,3 +13,5 @@ tips:
   - substract the min num for every element and add to result
   - narrow the array and recursion
   - if the first element is 0, the recursion end
+
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Easy/Stupid%20Machine/Stupid%20Machine.py)
