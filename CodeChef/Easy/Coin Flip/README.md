@@ -14,3 +14,5 @@ tips:
 * The filps eventually make the coins count two part, T = H or \|T-H\| = 1
 * The even flips make the coins Head or Tail counts the same, we don't need to care about the init state i.e. T = H
 * The odd filps make the T or H depends on the init state, \|T-H\| = 1, if I = Q, less count will be the desire anwser 
+
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Easy/Coin%20Flip/Coin%20Flip.py)
