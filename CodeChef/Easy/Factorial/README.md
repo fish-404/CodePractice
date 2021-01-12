@@ -16,3 +16,4 @@ tips:
     
     <img src="http://latex.codecogs.com/svg.latex?[\frac{n}{5^1}]&space;&plus;&space;[\frac{n}{5^2}]&space;&plus;&space;\cdots&space;&plus;[\frac{n}{5^k}]" title="http://latex.codecogs.com/svg.latex?[\frac{n}{5^1}] + [\frac{n}{5^2}] + \cdots +[\frac{n}{5^k}]" />
 
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Easy/Factorial/Factorial.py)
