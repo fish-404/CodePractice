@@ -15,3 +15,5 @@ tips:
 Note: 
   * We can't use `abs()` to judge, because in odd round, leftRoundA is different from leftRoundA
   * don't forget case games ended in last round
+
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Easy/Penalty%20Shoot-Out%20II/Penalth%20Shoot-Out%20II.py)
