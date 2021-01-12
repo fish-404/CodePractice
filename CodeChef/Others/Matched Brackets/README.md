@@ -20,3 +20,5 @@ tips:
     * if it is larger then now max, update max pairs and the position
   - close bracket:
     * if depth is zero after depth reduce, it means parent bracket ended, so clear the temp pairs record
+
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Others/Matched%20Brackets/Matched%20Brackets.py)
