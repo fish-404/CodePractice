@@ -50,4 +50,4 @@ Items with link means having document.
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/)
 * Turbo Sort
 * Valid Triangles
-* Villages and Tribes
+* [Villages and Tribes](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Villages%20and%20Tribes/)
