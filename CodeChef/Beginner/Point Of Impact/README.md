@@ -4,7 +4,7 @@
 
 ### Beginner [Back](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/)
 
-#### Encoded String
+#### Point Of Impact
 
 Problem: [Point Of Impact](https://www.codechef.com/problems/BILLRD/)
 
