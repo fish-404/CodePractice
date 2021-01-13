@@ -14,6 +14,6 @@ tips:
 
 Note:
 
-* if you simply using `index` in python, it will return runtime error
+* if you simply using `index()` in python, it will return runtime error
 
 [Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Tanu%20and%20Head-bob/Tanu%20and%20Head-bob.py) 
