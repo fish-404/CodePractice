@@ -1,5 +1,11 @@
 # CodePractice [Back](https://blog.fish-404.icu/CodePractice/)
 
+Personal code practice record.
+
+Items in list means AC.
+
+Items with link means having document.
+
 ## CodeChef [Back](https://blog.fish-404.icu/CodePractice/CodeChef/)
 
 ### Easy 
