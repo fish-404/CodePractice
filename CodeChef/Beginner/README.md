@@ -45,6 +45,7 @@ Items with link means having document.
 * Smallest Numbers of Notes
 * Sum of Digits
 * Sum OR Difference
+* [Tanu and Head-bob](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Tanu%20and%20Head-bob/)
 * [The Block Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Block%20Game/)
 * [The Lead Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Lead%20Game/)
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/)
