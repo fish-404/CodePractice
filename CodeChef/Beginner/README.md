@@ -9,7 +9,7 @@ Items with link means having document.
 
 ### Beginner 
 
-* ATM(https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Division%203/)
+* [ATM](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Division%203/)
 * Ada and Dishes
 * Add Two Numbers
 * Chef And Operators
