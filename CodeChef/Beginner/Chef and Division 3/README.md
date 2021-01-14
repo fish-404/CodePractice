@@ -4,7 +4,7 @@
 
 ### Beginner [Back](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/)
 
-#### Laddu
+#### Chef and Division 3
 
 Problem: [Chef and Division 3](https://www.codechef.com/problems/DIVTHREE)
 
