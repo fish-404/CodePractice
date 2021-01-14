@@ -9,7 +9,7 @@ Items with link means having document.
 
 ### Beginner 
 
-* ATM
+* ATM(https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Division%203/)
 * Ada and Dishes
 * Add Two Numbers
 * Chef And Operators
@@ -18,6 +18,7 @@ Items with link means having document.
 * [Chef and Street Food](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Street%20Food/)
 * Chef and Two Strings
 * Ciel OR Receipt
+* [Coins And Triangle](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Coins%20And%20Triangle/)
 * Decrement and Increment
 * [Encoded String](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Encoded%20String)
 * Enormous Input Test
