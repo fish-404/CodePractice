@@ -28,10 +28,11 @@ Items with link means having document.
 * First and Last Digit
 * Fit squares in Triangle
 * GCD and LCM
+* [Good Joke!](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Good%20Joke!/)[[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Good%20Joke!/Good%20Joke!.py)]
 * Grade The Steel
 * Gross Salary
 * Helping Chef
-* Hidden Numbers
+* [Hidden Numbers](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Hidden%20Numbers/)[[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Hidden%20Numbers/Hidden%20Numbers.py)]
 * Id and Ship
 * [Laddu](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Laddu/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Laddu/Laddu.py)]
 * Lapindromes
