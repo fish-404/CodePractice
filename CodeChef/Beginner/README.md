@@ -41,7 +41,7 @@ Items with link means having document.
 * Number Mirror
 * [Point Of Impact](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Point%20Of%20Impact/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Point%20Of%20Impact/Point%20Of%20Impact.py)]
 * Primality Test
-* Reverse The Number [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Reverse%20The%20Number/Reverse%20The%20Number.c)|[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Reverse%20The%20Number/Reverse%20The%20Number.py)]
+* Reverse The Number [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Reverse%20The%20Number/Reverse%20The%20Number.c)\|[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Reverse%20The%20Number/Reverse%20The%20Number.py)]
 * Second Largest
 * Small Factorial
 * Small factorials
