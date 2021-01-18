@@ -14,7 +14,6 @@ function getTag(fragment) {
 
 function processData(input) {
     //Enter your code here
-    t = input[0];
     getTag(input);
 } 
 
