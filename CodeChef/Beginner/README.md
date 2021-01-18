@@ -46,12 +46,13 @@ Items with link means having document.
 * Small Factorial
 * Small factorials
 * Smallest Numbers of Notes
-* Sum of Digits
+* Sum of Digits [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.c)\|[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.py)]
 * Sum OR Difference
 * [Tanu and Head-bob](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Tanu%20and%20Head-bob/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Tanu%20and%20Head-bob/Tanu%20and%20Head-bob.py)]  
 * [The Block Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Block%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Block%20Game/The%20Block%20Game.py)]
 * [The Lead Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Lead%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Lead%20Game/The%20Lead%20Game.py)]
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Total%20Expenses/Total%20Expenses.py)]
 * Turbo Sort
+* [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
 * Valid Triangles
 * [Villages and Tribes](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Villages%20and%20Tribes/) [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Villages%20and%20Tribes/Villages%20and%20Tribes.c)]
