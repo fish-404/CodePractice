@@ -1,5 +1,5 @@
 function getTag(fragment) {
-    let pattern = /<\/[a-z][a-z|\d]*>|<[a-z][^<>]*\/>/g
+    let pattern = /<\/[a-z][a-z|\d]*>|<[a-z][^>]*\/>/g
     let tags = fragment.match(pattern);
     let tagSet = new Set(tags);
     let result = new Set();
