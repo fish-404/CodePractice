@@ -1,14 +1,13 @@
 function getTag(fragment) {
     let pattern = /<\/[a-z][a-z|\d]*>|<[a-z][^>]*\/>/g
     let tags = fragment.match(pattern);
-    let tagSet = new Set(tags);
-    let result = new Set();
-    for (let tag of tagSet.keys()) {
+    let tagSet = new Set();
+    for (let tag of tags) {
         pattern = /[a-z][a-z|\d]*/g;
         letter = tag.match(pattern);
-        result.add(letter[0]);
+        tagSet.add(letter[0]);
     }
-    let resultTag = Array.from(result)
+    let resultTag = Array.from(tagSet)
     console.log(resultTag.sort().join(";"));
 }
 
