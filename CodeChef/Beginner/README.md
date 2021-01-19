@@ -23,13 +23,14 @@ Items with link means having document.
 * Decrement and Increment
 * [Encoded String](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Encoded%20String) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Encoded%20String/Encoded%20String.py)]
 * Enormous Input Test [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Enormous%20Input%20Test/Enormous%20Input%20Test.c)]
-* Find Reminder
+* Find Reminder [[C](https://github.com/fish-404/CodePractice/tree/main/CodeChef/Beginner/Find%20Reminder/Find%20Reminder.c)]
 * Finding Square Roots
 * First and Last Digit
 * Fit squares in Triangle
 * GCD and LCM
 * [Good Joke!](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Good%20Joke!/)[[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Good%20Joke!/Good%20Joke!.py)]
 * Grade The Steel
+* Greedy puppy [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Greedy%20puppy/Greedy%20puppy.py)]
 * Gross Salary
 * Helping Chef
 * [Hidden Numbers](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Hidden%20Numbers/)[[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Hidden%20Numbers/Hidden%20Numbers.py)]
