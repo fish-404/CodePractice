@@ -4,7 +4,7 @@
 
 ### Practice [Back](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/)
 
-#### Regex [Back](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/Regex/)
+#### Regex 
 
 A helpful regex test tool: [Online regex tester and debugger](https://regex101.com/) 😜
 
