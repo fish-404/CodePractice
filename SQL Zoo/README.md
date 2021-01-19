@@ -10,4 +10,4 @@ updated format base on some guides:
 
 I use left comma so that if you delete a condition, the sql command is still right.
 
-[Demos]()
+[Demos](https://github.com/fish-404/CodePractice/tree/main/SQL%20Zoo)
