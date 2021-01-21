@@ -55,5 +55,6 @@ Items with link means having document.
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Total%20Expenses/Total%20Expenses.py)]
 * Turbo Sort
 * [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
-* Valid Triangles
+* Valid Triangles [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Valid%20Triangles/Valid%20Triangles.c)]
+* [Version Control System](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Version%20Contorl%20System/) [[JavaScript(https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Version%20Control%20System/Version%20Control%20System.js)]]
 * [Villages and Tribes](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Villages%20and%20Tribes/) [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Villages%20and%20Tribes/Villages%20and%20Tribes.c)]
