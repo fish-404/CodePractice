@@ -28,12 +28,12 @@ Items with link means having document.
 * First and Last Digit
 * Fit squares in Triangle
 * GCD and LCM
-* [Good Joke!](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Good%20Joke!/)[[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Good%20Joke!/Good%20Joke!.py)]
+* [Good Joke!](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Good%20Joke!/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Good%20Joke!/Good%20Joke!.py)]
 * Grade The Steel
 * Greedy puppy [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Greedy%20puppy/Greedy%20puppy.py)]
 * Gross Salary
 * Helping Chef
-* [Hidden Numbers](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Hidden%20Numbers/)[[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Hidden%20Numbers/Hidden%20Numbers.py)]
+* [Hidden Numbers](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Hidden%20Numbers/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Hidden%20Numbers/Hidden%20Numbers.py)]
 * Id and Ship
 * [Laddu](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Laddu/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Laddu/Laddu.py)]
 * Lapindromes
@@ -47,7 +47,7 @@ Items with link means having document.
 * Small Factorial
 * Small factorials
 * Smallest Numbers of Notes
-* Sum of Digits [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.c)\|[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.py)]
+* Sum of Digits [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.c) \| [Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.py)]
 * Sum OR Difference
 * [Tanu and Head-bob](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Tanu%20and%20Head-bob/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Tanu%20and%20Head-bob/Tanu%20and%20Head-bob.py)]  
 * [The Block Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Block%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Block%20Game/The%20Block%20Game.py)]
@@ -56,5 +56,5 @@ Items with link means having document.
 * Turbo Sort
 * [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
 * Valid Triangles [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Valid%20Triangles/Valid%20Triangles.c)]
-* [Version Control System](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Version%20Contorl%20System/) [[JavaScript(https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Version%20Control%20System/Version%20Control%20System.js)]]
+* [Version Control System](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Version%20Contorl%20System/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Version%20Control%20System/Version%20Control%20System.js)]
 * [Villages and Tribes](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Villages%20and%20Tribes/) [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Villages%20and%20Tribes/Villages%20and%20Tribes.c)]
