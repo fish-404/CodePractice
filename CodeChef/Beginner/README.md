@@ -20,6 +20,7 @@ Items with link means having document.
 * Chef and Two Strings
 * Ciel OR Receipt
 * [Coins And Triangle](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Coins%20And%20Triangle/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Coins%20And%20Trianlge/Coins%20And%20Trianlge.py)]
+* [Cops and the Thief Devu](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Cops%20and%20the%20Thief%20Devu/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Cops%20and%20the%20Thief%20Devu/Cops%20and%20the%20Thief%20Devu.py)]
 * Decrement and Increment
 * [Encoded String](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Encoded%20String) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Encoded%20String/Encoded%20String.py)]
 * Enormous Input Test [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Enormous%20Input%20Test/Enormous%20Input%20Test.c)]
@@ -53,7 +54,7 @@ Items with link means having document.
 * [The Block Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Block%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Block%20Game/The%20Block%20Game.py)]
 * [The Lead Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Lead%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Lead%20Game/The%20Lead%20Game.py)]
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Total%20Expenses/Total%20Expenses.py)]
-* Turbo Sort
+* Turbo Sort [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Turbo%20Sort/Turbo%20Sort.py)]
 * [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
 * Valid Triangles [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Valid%20Triangles/Valid%20Triangles.c)]
 * [Version Control System](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Version%20Contorl%20System/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Version%20Control%20System/Version%20Control%20System.js)]
