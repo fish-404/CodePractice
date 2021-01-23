@@ -15,7 +15,8 @@ Items with link means having document.
 * [ATM](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Division%203/) [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/ATM/ATM.c)]
 * Chef And Operators
 * [Chef and Division 3](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Division%203/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Division%203/Chef%20and%20Division%203.py)]
-* Chef and Remissness
+* Chef and Fruits [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Fruits/Chef%20and%20Fruis.py)]
+* Chef and Remissness [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Remissness/Chef%20and%20Remissness.c)]
 * [Chef and Street Food](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Street%20Food/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Street%20Food/Chef%20and%20Street%20Food.py)]
 * Chef and Two Strings
 * Ciel OR Receipt
