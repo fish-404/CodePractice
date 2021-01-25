@@ -48,7 +48,8 @@ Items with link means having document.
 * Second Largest
 * Small Factorial
 * Small factorials
-* Smallest Numbers of Notes
+* Smallest Numbers of Notes [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Smallest%20Numbers%20of%20Notes/Smallest%20Numbers%20of%20Notes.c)]
+* Smallest Pair [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Smallest%20Pair/Smalllest%20Pair.py)]
 * Sum of Digits [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.c) \| [Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.py)]
 * Sum OR Difference
 * [Tanu and Head-bob](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Tanu%20and%20Head-bob/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Tanu%20and%20Head-bob/Tanu%20and%20Head-bob.py)]  
