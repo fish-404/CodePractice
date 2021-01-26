@@ -31,7 +31,7 @@ Items with link means having document.
 * Fit squares in Triangle
 * GCD and LCM
 * [Good Joke!](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Good%20Joke!/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Good%20Joke!/Good%20Joke!.py)]
-* Grade The Steel
+* Grade The Steel [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Grade%20The%20Steel/Grade%20The%20Steel.c)]
 * Greedy puppy [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Greedy%20puppy/Greedy%20puppy.py)]
 * Gross Salary
 * Helping Chef
@@ -56,6 +56,7 @@ Items with link means having document.
 * [The Block Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Block%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Block%20Game/The%20Block%20Game.py)]
 * [The Lead Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Lead%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Lead%20Game/The%20Lead%20Game.py)]
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Total%20Expenses/Total%20Expenses.py)]
+* [Three Way Communications](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Three%20Way%20Communications/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Three%20Way%20Communications/Three%20Way%20Communications.py)]
 * Turbo Sort [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Turbo%20Sort/Turbo%20Sort.py)]
 * [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
 * Valid Triangles [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Valid%20Triangles/Valid%20Triangles.c)]
