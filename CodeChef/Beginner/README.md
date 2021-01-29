@@ -19,6 +19,7 @@ Items with link means having document.
 * Chef and Remissness [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Remissness/Chef%20and%20Remissness.c)]
 * [Chef and Street Food](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Chef%20and%20Street%20Food/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20Street%20Food/Chef%20and%20Street%20Food.py)]
 * Chef and Two Strings
+* Chef and the Wildcard Matching [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Chef%20and%20the%20Wildcard%20Matching/Chef%20and%20the%20Wildcard%20Matching.py)]
 * Ciel OR Receipt
 * [Coins And Triangle](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Coins%20And%20Triangle/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Coins%20And%20Trianlge/Coins%20And%20Trianlge.py)]
 * [Cops and the Thief Devu](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Cops%20and%20the%20Thief%20Devu/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Cops%20and%20the%20Thief%20Devu/Cops%20and%20the%20Thief%20Devu.py)]
@@ -51,7 +52,7 @@ Items with link means having document.
 * Smallest Numbers of Notes [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Smallest%20Numbers%20of%20Notes/Smallest%20Numbers%20of%20Notes.c)]
 * Smallest Pair [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Smallest%20Pair/Smalllest%20Pair.py)]
 * Sum of Digits [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.c) \| [Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20of%20Digits/Sum%20of%20Digits.py)]
-* Sum OR Difference
+* Sum OR Difference [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Sum%20OR%20Difference/Sum%20OR%20Difference.py)]
 * [Tanu and Head-bob](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Tanu%20and%20Head-bob/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Tanu%20and%20Head-bob/Tanu%20and%20Head-bob.py)]  
 * [The Block Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Block%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Block%20Game/The%20Block%20Game.py)]
 * [The Lead Game](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/The%20Lead%20Game/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/The%20Lead%20Game/The%20Lead%20Game.py)]
