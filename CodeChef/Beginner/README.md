@@ -43,8 +43,10 @@ Items with link means having document.
 * Lucy Four
 * Mahasena
 * Number Mirror
+* Piece of case [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Piece%20of%20cake/Piece%20of%20cake.py)]
 * [Point Of Impact](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Point%20Of%20Impact/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Point%20Of%20Impact/Point%20Of%20Impact.py)]
-* Primality Test
+* Primality Test [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Primality%20Test/Primality%20Test.c)]
+* [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
 * Reverse The Number [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Reverse%20The%20Number/Reverse%20The%20Number.c)\|[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Reverse%20The%20Number/Reverse%20The%20Number.py)]
 * Second Largest
 * Small Factorial
@@ -59,7 +61,6 @@ Items with link means having document.
 * [Total Expenses](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Total%20Expenses/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Total%20Expenses/Total%20Expenses.py)]
 * [Three Way Communications](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Three%20Way%20Communications/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Three%20Way%20Communications/Three%20Way%20Communications.py)]
 * Turbo Sort [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Turbo%20Sort/Turbo%20Sort.py)]
-* [Puppy and Sum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Puppy%20and%20Sum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Puppy%20and%20Sum/Puppy%20and%20Sum.py)] 
 * Valid Triangles [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Valid%20Triangles/Valid%20Triangles.c)]
 * [Version Control System](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Version%20Contorl%20System/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Version%20Control%20System/Version%20Control%20System.js)]
 * [Villages and Tribes](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Villages%20and%20Tribes/) [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Villages%20and%20Tribes/Villages%20and%20Tribes.c)]
