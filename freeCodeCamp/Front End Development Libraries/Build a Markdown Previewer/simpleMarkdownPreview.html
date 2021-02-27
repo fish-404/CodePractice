@@ -1,0 +1,70 @@
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.2.9/marked.min.js"></script>
+    <!-- for highlight -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-dark.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="./myScript.js"></script>
+    <link href="./myStyle.css" rel="stylesheet">
+</head>
+<body>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <main class="wrapper">
+        <h1 id="title">Simple Markdown Previewer</h1>
+        <p id="editorHeader">Editor</p>
+        <textarea id="editor" oninput="textChange()">
+# Simple Markdown Previewer
+## Header2
+
+- [ ] todo list 
+- [x] todo list checked
+
+Inline code:  `<div></div>` [links]()
+
+block code:      
+
+``` JavaScript
+// this is multi-line code:
+function anotherExample(firstLine, lastLine) {
+  if (firstLine == '```' && lastLine == '```') {
+    return multiLineCode;
+  }
+}
+```
+text **bold** Or _italic_. Or... wait for it... **_both!_** And ~~crossing stuff out~~.
+
+> Block Quotes!
+
+tables:
+
+Wild Header | Crazy Header | Another Header?
+------------ | ------------- | -------------
+Your content can | be here, and it | can be here....
+
+- And of course there are lists.
+  - Some are bulleted.
+     - With different indentation levels.
+
+1. And there are numbererd lists too.
+1. Use just 1s if you want!
+1. And last but not least, let's not forget embedded images (I limit the picture size and center itself). 
+          
+![cat](https://image.freepik.com/free-photo/headshot-closeup-portrait-cat_174814-85.jpg)
+          
+It can support math symbol, but still has some problems.
+          
+     $$\Delta = \sqrt{b^2-4ac}$$
+
+Welcome to your suggesstions!
+          
+        </textarea>
+        <p id="previewerHeader">Previewer</p>
+        <div id="preview">
+          <output id="output">output<output>
+        </div>
+        <footer class="footer">Designed by <a href="https://github.com/fish-404">Fish__404</a></footer>
+    </main>
+</body>
