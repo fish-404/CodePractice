@@ -5,6 +5,7 @@ marked.setOptions({
         return hljs.highlight(validLanguage, code).value;
     }
 });
+
 /* redefine checkbox style */
 const renderer = {
   listitem(text, task, checked) {
