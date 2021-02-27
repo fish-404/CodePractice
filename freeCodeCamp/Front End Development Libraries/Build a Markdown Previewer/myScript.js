@@ -37,4 +37,4 @@ function render() {
 
 setInterval(render, 3000); // not a good practice, need modify
 
-/* The textarea render modify from https://codepen.io/kob58im/pen/wvWgOEZ/ */
+/* The textarea render is modified from https://codepen.io/kob58im/pen/wvWgOEZ/ */
