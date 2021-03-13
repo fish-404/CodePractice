@@ -10,5 +10,5 @@ For each prctice project, I realize the user story first, pass the test which fr
 
 Then I modify or add some simple features, so the code in this folder can't pass the whole test.
 
-- Markdown Previewer [View in CodePen](https://codepen.io/fish-404/pen/PobqpaB)
-- Calculator [View in CodePen](https://codepen.io/fish-404/pen/bGBLJXp)
+- Markdown Previewer [[View in CodePen](https://codepen.io/fish-404/pen/PobqpaB)]
+- Calculator [[View in CodePen](https://codepen.io/fish-404/pen/bGBLJXp)]
