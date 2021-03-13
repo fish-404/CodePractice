@@ -8,7 +8,7 @@
 
 A practice project for [Bulid a JavaScript Calculator](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator) [[View in CodePen](https://codepen.io/fish-404/pen/bGBLJXp)].
 
-For some features enhance, I modify the code, so it won't pass the freecodecamp test.
+For some features enhancement, I modify the code, so it won't pass the freecodecamp test.
 
 Buttons explain:
 
