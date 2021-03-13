@@ -1,0 +1,238 @@
+body {
+  background-color: lightslategray;  
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  text-align: center;
+  margin: 10px;
+  color: lightyellow;
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.commonBut {
+  background-color: lightyellow;
+  border-color: white;
+  font-size: 25px;
+}
+
+.calBut {
+  background-color: mistyrose;
+  border-color: white;
+  font-size: 30px;
+}
+
+#power {
+  border-color: white;
+  background-color: thistle;
+  font-size: 20px;
+}
+
+
+#clear {
+  border-color: white;
+  background-color: azure;
+  font-size: 25px;
+}
+
+#copy {
+  border-color: white;
+  background-color: azure; 
+  font-size: 20px;
+}
+
+#back {
+  border-color: white;
+  background-color: lavender;
+  font-size: 35px;
+}
+
+#calculator {
+  display: grid;
+  margin: 0 auto;
+  border: solid whitesmoke;
+  border-radius: 5px;
+  max-width: 500px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 3px repeat(7, 1fr);
+  grid-gap: 3px;
+  padding: 2px;
+}
+
+#display {
+  position: relative;
+  border: solid;
+  grid-column: 1 / 5;
+  grid-row: 2 / 4;
+  background-color: #333333;
+  border-color: white;
+  border-radius: 2px;
+  font-size: 25px;
+  table-layout: fixed;
+  z-index: 1;
+  padding: 3px;
+  max-width: inherit;
+}
+
+#expression {
+  overflow-x: scroll;
+  color: white;
+  height: 100%;
+  max-height: inherit;
+  width: 400px;
+  max-width: inherit;
+}
+
+.powerSign {
+  grid-row: 1;
+  grid-column: 1 / -1;
+  background-color: #333333;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  width: 99.5%;
+  height: 3px;
+}
+
+#expression::-webkit-scrollbar {
+  height: 9px;
+  background-color: lightslategray;
+}
+
+#expression::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 9px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 0 9px rgba(0, 0, 0, 0.5);
+}
+
+#expression::-webkit-scrollbar-thumb {
+  background-color: white;
+  -webkit-box-shadow: inset 0 0 9px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 0 9px rgba(0, 0, 0, 0.5);
+}
+
+#result {
+  grid-row: 2;
+  font-size: 30px;
+  color: white;
+  padding-right: 5px;
+  position: absolute;
+  top: 35px;
+  right: 0;
+  width: 100%;
+  text-align: right;
+  max-height: inherit;
+  max-width: inherit;
+}
+
+#zero {
+  grid-row: 8;
+  grid-column: 2;
+}
+
+#one {
+  grid-row: 7;
+  grid-column: 1;
+}
+
+#two {
+  grid-row: 7;
+  grid-column: 2;
+}
+
+#three {
+  grid-row: 7;
+  grid-column: 3;
+}
+
+#equals {
+  grid-row: 8;
+  grid-column: 3;
+}
+
+#decimal {
+  grid-row: 8;
+  grid-column: 1;
+}
+
+#four {
+  grid-row: 6;
+  grid-column: 1;
+}
+
+#five {
+  grid-row: 6;
+  grid-column: 2;
+}
+
+#six {
+  grid-row: 6;
+  grid-column: 3;
+}
+
+#seven {
+  grid-row: 5;
+  grid-column: 1;
+}
+
+#eight {
+  grid-row: 5;
+  grid-column: 2;
+}
+
+#nine {
+  grid-row: 5;
+  grid-column: 3;
+}
+
+#clear {
+  grid-row: 4;
+  grid-column: 2;
+}
+
+#back {
+  grid-row: 4; 
+  grid-column: 3;
+}
+
+#power {
+  grid-row: 4;
+  grid-column: 4;
+}
+
+#add {
+  grid-row: 5;
+  grid-column: 4;
+}
+
+#subtract {
+  grid-row: 6;
+  grid-column: 4;
+}
+
+#multiply {
+  grid-row: 7;
+  grid-column: 4;
+}
+
+#divide {
+  grid-row: 8;
+  grid-column: 4;
+}
