@@ -42,6 +42,7 @@ Items with link means having document.
 * Lapindromes
 * Lucy Four
 * Mahasena
+* [Minimum Maximum](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Minimum%20Maximum/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Minimum%20Maximum/Minimum%20Maximum.py)]
 * Number Mirror
 * Piece of case [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Piece%20of%20cake/Piece%20of%20cake.py)]
 * [Point Of Impact](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Point%20Of%20Impact/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Point%20Of%20Impact/Point%20Of%20Impact.py)]
