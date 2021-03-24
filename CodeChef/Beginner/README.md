@@ -24,6 +24,7 @@ Items with link means having document.
 * [Coins And Triangle](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Coins%20And%20Triangle/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Coins%20And%20Trianlge/Coins%20And%20Trianlge.py)]
 * [Cops and the Thief Devu](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Cops%20and%20the%20Thief%20Devu/) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Cops%20and%20the%20Thief%20Devu/Cops%20and%20the%20Thief%20Devu.py)]
 * Decrement and Increment
+* [Discount in a Shop](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Discount%20in%20a%20Shop) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Discount%20in%20a%20Shop/Discount%20in%20a%20Shop.py)]
 * [Encoded String](https://blog.fish-404.icu/CodePractice/CodeChef/Beginner/Encoded%20String) [[Python](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Encoded%20String/Encoded%20String.py)]
 * Enormous Input Test [[C](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Beginner/Enormous%20Input%20Test/Enormous%20Input%20Test.c)]
 * Find Reminder [[C](https://github.com/fish-404/CodePractice/tree/main/CodeChef/Beginner/Find%20Reminder/Find%20Reminder.c)]
