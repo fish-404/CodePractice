@@ -1,4 +1,4 @@
-# You can view and test this code in https://replit.com/@fish404/boilerplate-arithmetic-formatter
+# You can run and test this code in https://replit.com/@fish404/boilerplate-arithmetic-formatter
 import re 
 
 limit = 5
