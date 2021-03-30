@@ -1,3 +1,4 @@
+# test environment: https://replit.com/@fish404/boilerplate-time-calculator
 def to24Format(start):
   newTime = start[:-2].split(':')
   newTime = [int(x.strip()) for x in newTime]
