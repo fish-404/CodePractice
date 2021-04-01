@@ -12,4 +12,4 @@ tips:
 * Notice that the test set indicate all the numbers in range 1 to 100, so you don't need to write a method judge prime, you can use a prime set in 100 and search.
 * Actually, if you write a prime judge program, it says beyond time limit.
 
-[Python Demo](https://github.com/fish-404/CodePractice/tree/main/CodeChef/Friends%20Meeting)
+[Python Demo](https://github.com/fish-404/CodePractice/blob/main/CodeChef/Peer/Friends%20Meeting/Friends%20Meeting.py)
