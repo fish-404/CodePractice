@@ -25,45 +25,48 @@
                     elevator.goingUpIndicator(true);
                     elevator.goingDownIndicator(true);
                 }
+                else if (elevator.destinationQueue.length == 0) {
+                    console.log(floors[0].floorNum());
+                }
             });
         }
 
-        for (let floor = 0; floor < floors.length; floor++) {
-            floors[floor].on("up_button_pressed", function() {
+        for (let floor of floors) {
+            floor.on("up_button_pressed", function() {
                 for (elevator of elevators) {
                     if (elevator.destinationDirection() == "up") {
                         if (elevator.getPressedFloors().length == 0) {
-                            elevator.goToFloor(floor, true);
+                            elevator.goToFloor(floor.floorNum(), true);
                         }
                         else {
-                            elevator.goToFloor(floor);
+                            elevator.goToFloor(floor.floorNum());
                         }
                     }
                     else if (elevator.destinationQueue.length == 0) {
-                        elevator.goToFloor(floor);
+                        elevator.goToFloor(floor.floorNum());
                         break;
                     }
                     else {
-                        elevator.goToFloor(floor);
+                        elevator.goToFloor(floor.floorNum());
                     }
                 }
             });
-            floors[floor].on("down_button_pressed", function() {
+            floor.on("down_button_pressed", function() {
                 for (elevator of elevators) {
                     if (elevator.destinationDirection() == "down") {
                         if (elevator.getPressedFloors().length == 0) {
-                            elevator.goToFloor(floor, true);
+                            elevator.goToFloor(floor.floorNum(), true);
                         }
                         else {
-                            elevator.goToFloor(floor);
+                            elevator.goToFloor(floor.floorNum());
                         }
                     }
                     else if (elevator.destinationQueue.length == 0) {
-                        elevator.goToFloor(floor);
+                        elevator.goToFloor(floor.floorNum());
                         break;
                     }
                     else {
-                        elevator.goToFloor(floor);
+                        elevator.goToFloor(floor.floorNum());
                     }
                 }
             });
