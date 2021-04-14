@@ -2,92 +2,80 @@
  * Solution to Elevator Saga Game
  * Game Link: http://play.elevatorsaga.com/
  * Status: Pending
+ * Problem: A NaN is pushed into queue
  */
 
 {
     init: function(elevators, floors) {
-        // Traverse elevators
+        // Whenever the elevator is idle (has no more queued destinations) ...
         for (let elevator of elevators) {
-            /* Triggerd when elevator has no task */
+            elevator.destinationQueue = [];
+            
             elevator.on("idle", function() {
-                elevator.goToFloor(0, true);
+                elevator.goToFloor(0);
             });
-            
-            /* Triggerd when someone pressed floor button inside elevator */
             elevator.on("floor_button_pressed", function(floorNum) {
-                elevator.destinationQueue.push(floorNum);
-                elevator.destinationQueue = elevator.destinationQueue.sort();
-                elevator.checkDestinationQueue();
+                if (floorNum != elevator.currentFloor())
+                    elevator.destinationQueue.push(floorNum);
+                console.log("test", elevator.destinationQueue);
+                elevator.checkDestinationQueue(); 
+                elevator.destinationQueue.sort();
+                if (elevator.goingUpIndicator()) {
+                    if (elevator.destinationQueue[-1] < elevator.currentFloor()) {
+                        elevator.goingUpIndicator(false);
+                        elevator.goingDownIndicator(true);
+                        elevator.goToFloor(elevator.destinationQueue[-1], true);
+                    }
+                    else {
+                        elevator.goToFloor(elevator.destinationQueue.find(f => f > elevator.currentFloor()), true);
+                    }
+                }
+                else {
+                    if (elevator.destinationQueue[0] > elevator.currentFloor()) {
+                        elevator.goingUpIndicator(true);
+                        elevator.goingDownIndicator(false);
+                        elevator.goToFloor(elevator.destinationQueue[0], true);
+                    }
+                    else {
+                        elevator.goToFloor(elevator.destinationQueue.find(f => f < elevator.currentFloor()), true);
+                    }
+                }
             });
-            
-            /* Triggered when elevator passing a floor */
             elevator.on("passing_floor", function(floorNum, direction) {
                 if (direction == "up") {
                     elevator.goingDownIndicator(false);
-                } 
-                else {
+                } else { // "down"
                     elevator.goingUpIndicator(false);
                 }
             });
-            
-            /* Triggered when elevator stops at a floor */
             elevator.on("stopped_at_floor", function(floorNum) {
-                if (elevator.getPressedFloors().length == 0) {
+                console.log(elevator.destinationQueue);
+                if (elevator.getPressedFloors().length == 0 || elevator.destinationQueue.length == 0) {
                     elevator.goingUpIndicator(true);
                     elevator.goingDownIndicator(true);
                 }
-                else if (elevator.destinationQueue.length == 0) {
-                    console.log(floors[0].floorNum());
+                if (elevator.currentFloor() == 0) {
+                    elevator.goingDownIndicator(false);
+                    elevator.goingUpIndicator(true);
+                }
+                else if (elevator.currentFloor() == floors.length) {
+                    elevator.goingUpIndicator(false);
+                    elevator.goingDownIndicator(true);
                 }
             });
         }
 
-        // Traverse floors 
         for (let floor of floors) {
-            /* Triggerd when someone press up botton */
             floor.on("up_button_pressed", function() {
-                for (elevator of elevators) {
-                    if (elevator.destinationDirection() == "up") {
-                        if (elevator.getPressedFloors().length == 0) {
-                            elevator.goToFloor(floor.floorNum(), true);
-                        }
-                        else {
-                            elevator.goToFloor(floor.floorNum());
-                        }
-                    }
-                    else if (elevator.destinationQueue.length == 0) {
-                        elevator.goToFloor(floor.floorNum());
-                        break;
-                    }
-                    else {
-                        elevator.goToFloor(floor.floorNum());
-                    }
-                }
+
             });
             
-            /* Triggerd when someone press down botton */
             floor.on("down_button_pressed", function() {
-                for (elevator of elevators) {
-                    if (elevator.destinationDirection() == "down") {
-                        if (elevator.getPressedFloors().length == 0) {
-                            elevator.goToFloor(floor.floorNum(), true);
-                        }
-                        else {
-                            elevator.goToFloor(floor.floorNum());
-                        }
-                    }
-                    else if (elevator.destinationQueue.length == 0) {
-                        elevator.goToFloor(floor.floorNum());
-                        break;
-                    }
-                    else {
-                        elevator.goToFloor(floor.floorNum());
-                    }
-                }
+
             });
         }
     },
-    update: function(dt, elevators, floors) {
-        // We normally don't need to do anything here
-    }
+        update: function(dt, elevators, floors) {
+            // We normally don't need to do anything here
+        }
 }
