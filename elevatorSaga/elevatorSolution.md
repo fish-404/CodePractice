@@ -40,4 +40,7 @@ A2: Maybe not decide here.
 Each floor has two events, up_button_pressed and down_button_pressed. We just need analyse one since they are similar.
 #### up_button_pressed / down_button_pressed
 Q1: How do you add the floor to destination?
-A1: You must add all floor pressed to destination queue, or you may missing one. The pressed status may only once. 
+A1: You must add all floor pressed to destination queue, or you may missing one. The pressed status may only once.
+
+## For Multiple Elevators/Floors
+Q1: How to arrange the pending task?
