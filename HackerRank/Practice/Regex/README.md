@@ -14,5 +14,13 @@ A helpful regex test tool: [Online regex tester and debugger](https://regex101.c
 * [Detect HTML Tags](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/Regex/Detect%20HTML%20Tags/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Detect%20HTML%20Tags/Detect%20HTML%20Tags.js)]
 * Detecting Valid Latitude and Longitude Pairs [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Detecting%20Valid%20Latitude%20and%20Longitude%20Pairs/Detecting%20Valid%20Latitude%20and%20Longitude%20Pairs.py)]
 * [Find A Sub-Word](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/Regex/Find%20A%20Sub-Word/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Find%20A%20Sub-Word/Find%20A%20Sub-Word.js)]
+* Find HackerRank
+* HackerRank Language
+* HackerRank Tweets
 * IP Address Validation [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/IP%20Address%20Validation/IP%20Address%20Validation.py)]
+* Saying Hi
 * Split the Phone Numbers [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Split%20the%20Phone%20Numbers/Split%20the%20Phone%20Numbers.py)]
+* The British and American Style of Spelling
+* UK and US Part 2
+* Utopian Identification Number
+* Valid PAN format
