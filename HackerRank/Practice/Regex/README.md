@@ -9,6 +9,8 @@
 A helpful regex test tool: [Online regex tester and debugger](https://regex101.com/) 😜
 
 * Alien Username [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Alien%20Username/Alien%20Username.py)]
+* Building a Smart IDE: Identifying comments [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Building%20a%20Smart%20IDE:%20Identifying%20comments/identifyingComments.js)]
+* Building a Smart IDE: Programming Language Detection
 * Build a Stack Exchange Scraper [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Build%20a%20Stack%20Exchange%20Scraper/Build%20a%20Stack%20Exchange%20Scraper.js)]
 * [Detect HTML Attributes](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/Regex/Detect%20HTML%20Attributes/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Detect%20HTML%20Attributes/Detect%20HTML%20Attributes.js)]
 * [Detect HTML Tags](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/Regex/Detect%20HTML%20Tags/) [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Detect%20HTML%20Tags/Detect%20HTML%20Tags.js)]
