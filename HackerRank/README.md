@@ -2,5 +2,5 @@
 
 ## HackerRank
 
-* [Contest](https://blog.fish-404.icu/CodePractice/HackerRank/Contest/)
+* [Contests](https://blog.fish-404.icu/CodePractice/HackerRank/Contests/)
 * [Practice](https://blog.fish-404.icu/CodePractice/HackerRank/Practice/)
