@@ -14,3 +14,4 @@ You should optimize your algorithm to pass the test cases. Actually, they are ma
 
 1. [Multiples of 3 and 5](https://blog.fish-404.icu/CodePractice/HackerRank/Contests/Project%20Euler+/Multiples%20of%203%20and%205/) [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Contests/Project%20Euler%2B/Multiples%20of%203%20and%205/Multiple%20of%203%20and%205.py)]
 2. Even Fibonacci numbers [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Contests/Project%20Euler%2B/Even%20Fibonacci%20numbers/Even%20Fibonacci%20numbers.py)]
+3. [Largest prime factor](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Contests/Project%20Euler%2B/Largest%20prime%20factor/README.md) [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Contests/Project%20Euler%2B/Largest%20prime%20factor/Largest%20prime%20factor.py)]
