@@ -15,18 +15,18 @@
                 elevator.goToFloor(0);
             });
             elevator.on("floor_button_pressed", function(floorNum) {
-                if (floorNum != elevator.currentFloor())
-                    elevator.destinationQueue.push(floorNum);
+                if (floorNum != elevator.currentFloor()) 
+                    elevator.destinationQueue.push(floorNum); // add pressed floor to queue
                 console.log("test", elevator.destinationQueue);
                 elevator.checkDestinationQueue(); 
                 elevator.destinationQueue.sort();
-                if (elevator.goingUpIndicator()) {
+                if (elevator.goingUpIndicator()) { // going up
                     if (elevator.destinationQueue[-1] < elevator.currentFloor()) {
                         elevator.goingUpIndicator(false);
                         elevator.goingDownIndicator(true);
                         elevator.goToFloor(elevator.destinationQueue[-1], true);
                     }
-                    else {
+                    else { 
                         elevator.goToFloor(elevator.destinationQueue.find(f => f > elevator.currentFloor()), true);
                     }
                 }
