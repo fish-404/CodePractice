@@ -158,6 +158,24 @@ order by
  * 
  * Show the 1984 winners and subject ordered by subject and winner name; but list Chemistry and Physics last.
  */
+ 
+/***********************************************************************************************************
+ * SQL ZOO use the expression in its question guide, but does't point the SQL Engine will check the syntax
+ * The question guide can only works in MySQL Engine
+ * see https://stackoverflow.com/questions/35446816/sqlzoo-select-from-nobel-14 for more information
+ ***********************************************************************************************************/
+
+/* If you choose MySQL Engine */
+select 
+    winner
+    , subject
+from nobel
+where yr=1984
+order by 
+    subject in ('Physics','Chemistry')
+    , subject
+    , winner
+/* If you choose Micorosoft SQL Engine */
 select
     winner
     , subject
