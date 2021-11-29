@@ -62,6 +62,7 @@ function isValidRow(board, rowIndex) {
                 // visualize {
                 tracer.patch(rowIndex, col);
                 Tracer.delay();
+                // }
                 return false;
             }
             else
@@ -87,6 +88,7 @@ function isValidColumn(board, columnIndex) {
                 // visualize {
                 tracer.patch(row, columnIndex);
                 Tracer.delay();
+                // }
                 return false;
             }
             else
@@ -115,6 +117,7 @@ function isValidBlock(board, blockStartRow, blockStartColumn) {
                     tracer.patch(blockStartRow + x, blockStartColumn + y);
                     Tracer.delay();
                     return false;
+                    // }
                 }
                 else 
                     tempBlockSet.add(curNum);
