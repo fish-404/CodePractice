@@ -1,1 +1,1 @@
-All of solutions in this folder can visualization in https://algorithm-visualizer.org/. 
+All of solutions in this folder can visualized in https://algorithm-visualizer.org/. 
