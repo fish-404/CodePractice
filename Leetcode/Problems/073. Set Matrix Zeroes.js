@@ -18,15 +18,15 @@ Tracer.delay();
 // }
 
 var m = matrix.length, n = matrix[0].length;
-var col = -1, row = -1;
+var zeroCol = false, zeroRow = false; // flag if fisrt line should be set to zero
 
 if (matrix[0].indexOf(0) !== -1) {
-    row = 0;
+    zeroRow = true;
 }
 
 for (i = 0; i < m; i++) {
     if (matrix[i][0] === 0) {
-        col = 0; 
+        zeroCol = true; 
         break;
     }
 }
@@ -69,7 +69,7 @@ for (j = 1; j < n; j++) {
     }
 }
 
-if (col === 0) {
+if (zeroCol) {
     for (i = 1; i < m; i++) {
         matrix[i][0] = 0;
         // visualize {
@@ -79,7 +79,7 @@ if (col === 0) {
     }
 }
 
-if (row === 0) {
+if (zeroRow) {
     matrix[0].fill(0);
     for (j = 0; j < n; j++) {
     // visualize {
