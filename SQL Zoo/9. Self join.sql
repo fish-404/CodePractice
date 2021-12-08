@@ -144,3 +144,5 @@ inner join stops as stop_c on route_c.stop = stop_c.id
 inner join stops as stop_d on route_d.stop = stop_d.id
 where stopa.name = 'Craiglockhart'
 and stopd.name = 'Lochend'
+-- if you use MySQL engine, you need order by to pass the problem
+order by a.num, stopb.name, d.num 
