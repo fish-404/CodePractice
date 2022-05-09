@@ -5,8 +5,8 @@
 // @description  Sticky Microsoft Documents right sidebar TOC block
 // @description:zh 固定微软文档右侧的目录栏
 // @author       Fish__404
-// @updateURL    https://github.com/fish-404/CodePractice/blob/main/Scripts%20for%20Tampermonkey/stickyMsDocToc/stickyMsDocToc.js
-// @downloadURL  https://github.com/fish-404/CodePractice/blob/main/Scripts%20for%20Tampermonkey/stickyMsDocToc/stickyMsDocToc.js
+// @updateURL    https://raw.githubusercontent.com/fish-404/CodePractice/main/Scripts%20for%20Tampermonkey/stickyMsDocToc/stickyMsDocToc.js
+// @downloadURL  https://raw.githubusercontent.com/fish-404/CodePractice/main/Scripts%20for%20Tampermonkey/stickyMsDocToc/stickyMsDocToc.js
 // @match        *://docs.microsoft.com/*
 // @grant        none
 // ==/UserScript==
