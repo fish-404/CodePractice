@@ -6,8 +6,11 @@
 
 #### Regex 
 
-A helpful regex test tool: [Online regex tester and debugger](https://regex101.com/) 😜
+📐A helpful regex test tool: [Online regex tester and debugger](https://regex101.com/) 
 
+🎮A helpful regex game to learn regex: [Regex Crossword](https://regexcrossword.com/)
+
+---
 * Alien Username [[Python](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Alien%20Username/Alien%20Username.py)]
 * Building a Smart IDE: Identifying comments [[JavaScript](https://github.com/fish-404/CodePractice/blob/main/HackerRank/Practice/Regex/Building%20a%20Smart%20IDE:%20Identifying%20comments/identifyingComments.js)]
 * Building a Smart IDE: Programming Language Detection
